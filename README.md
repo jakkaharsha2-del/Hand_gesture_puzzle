@@ -159,7 +159,7 @@ Windows OS
 
 Webcam
 
-Note: The project currently uses winsound, which is Windows-specific.
+Note: The project currently uses winsound, which is Windows-specific
 
 📦 Installation
 1. Clone the repository
